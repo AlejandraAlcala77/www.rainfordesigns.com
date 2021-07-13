@@ -1,0 +1,359 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.rainfordesigns.com" resolutions="1x" timestamp="1626214039106">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="redes-sociales.css" crc="4157471287" ref="redes-sociales"/>
+    <file name="branding.css" crc="4138349796" ref="branding"/>
+    <file name="nomq_branding.css" crc="4244764662" ref="branding"/>
+    <file name="index.css" crc="464027025" ref="index"/>
+    <file name="nomq_index.css" crc="3819735556" ref="index"/>
+    <file name="marcas-y-logos-def.css" crc="450216260" ref="marcas-y-logos-def"/>
+    <file name="nomq_marcas-y-logos-def.css" crc="3959329095" ref="marcas-y-logos-def"/>
+    <file name="cartel.css" crc="56948292" ref="cartel"/>
+    <file name="nomq_cartel.css" crc="3878207511" ref="cartel"/>
+    <file name="fotograf_a.css" crc="444711166" ref="fotografía"/>
+  </folder>
+  <folder name="fonts">
+    <file name="formulacondensed-bold.woff" crc="3973482667"/>
+    <file name="anyconv.com__formulacondensed-bold.eot" crc="425405865"/>
+    <file name="bebasneue-bold.woff" crc="4257225857"/>
+    <file name="anyconv.com__bebasneue-bold.eot" crc="108489414"/>
+    <file name="formulacondensed-light.woff" crc="3923605359"/>
+    <file name="anyconv.com__formulacondensed-light.eot" crc="3964614333"/>
+    <file name="bebasneue-regular.woff" crc="4073550096"/>
+    <file name="anyconv.com__bebasneue-regular.eot" crc="198795319"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="museutils.js" crc="163421577" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="whatinput.js" crc="86476730" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="museconfig.js" crc="168988563" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:cartel:redes-sociales"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="webpro.js" crc="3848665353" ref="index:marcas-y-logos-def:branding:fotografía:cartel"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u2357.php" crc="3969924251" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="require.js" crc="244322403" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="branding:fotografía"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="branding:fotografía"/>
+    <file name="touchswipe.js" crc="404375771" ref="branding:fotografía"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-portafolio.svg" crc="4184590232" seo="true" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="logo portafolio_poster_.png" crc="4255279216" ref="index"/>
+    <file name="trazos-ondas-negras-01-01.svg" crc="135125722" seo="true" ref="index"/>
+    <file name="trazos ondas negras-01-01_poster_.png" crc="4281570714" ref="index"/>
+    <file name="lluvia.svg" crc="36883299" seo="true" ref="index"/>
+    <file name="lluvia_poster_.png" crc="10063868" ref="index"/>
+    <file name="onda-vacía-verde.svg" crc="115423866" seo="true" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="onda vacía verde_poster_.png" crc="3829977200" ref="index"/>
+    <file name="trazos-ondas.svg" crc="4187617619" seo="true" ref="index:marcas-y-logos-def:branding:fotografía:cartel:redes-sociales"/>
+    <file name="trazos ondas_poster_.png" crc="3860078043" ref="index"/>
+    <file name="retrato portafolio.png" crc="3874749426" ref="index"/>
+    <file name="what-to-before-pinning.jpg" crc="5247016" ref="index"/>
+    <file name="onda-vacía-blanco.svg" crc="461957218" seo="true" ref="index"/>
+    <file name="onda vacía blanco_poster_.png" crc="178655478" ref="index"/>
+    <file name="ondas-blancas-01.svg" crc="4241287110" seo="true" ref="index"/>
+    <file name="ondas blancas-01_poster_.png" crc="4127128594" ref="index"/>
+    <file name="menu.svg" crc="4006810428" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="menu_poster_u17541.png" crc="37726303" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="cerrar.svg" crc="494171557" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="cerrar_poster_u17547.png" crc="3981862761" ref="index:marcas-y-logos-def:branding:cartel"/>
+    <file name="retrato portafolio-u10187-fr.png" crc="232920904" ref="index"/>
+    <file name="retrato portafolio-u10187-fr2.png" crc="246006595" ref="index"/>
+    <file name="retrato portafolio-u10187-fr3.png" crc="4070031570" ref="index"/>
+    <file name="retrato portafolio-u10187-fr4.png" crc="4240787865" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:marcas-y-logos-def:branding:fotografía:cartel"/>
+    <file name="cruzrosa.svg" crc="12371006" seo="true" ref="marcas-y-logos-def"/>
+    <file name="cruzrosa_poster_.png" crc="297226197" ref="marcas-y-logos-def"/>
+    <file name="expedition.svg" crc="3797897191" seo="true" ref="marcas-y-logos-def"/>
+    <file name="expedition_poster_.png" crc="3915947633" ref="marcas-y-logos-def"/>
+    <file name="cruzrosa2.svg" crc="293785331" seo="true" ref="marcas-y-logos-def"/>
+    <file name="cruzrosa2_poster_.png" crc="3839609500" ref="marcas-y-logos-def"/>
+    <file name="socialmoney.svg" crc="3975553730" seo="true" ref="marcas-y-logos-def"/>
+    <file name="socialmoney_poster_.png" crc="223713660" ref="marcas-y-logos-def"/>
+    <file name="humyn.svg" crc="4251282064" seo="true" ref="marcas-y-logos-def"/>
+    <file name="humyn_poster_.png" crc="4061343202" ref="marcas-y-logos-def"/>
+    <file name="conception.svg" crc="287608830" seo="true" ref="marcas-y-logos-def"/>
+    <file name="conception_poster_.png" crc="186978976" ref="marcas-y-logos-def"/>
+    <file name="citrus.svg" crc="4162430967" seo="true" ref="marcas-y-logos-def"/>
+    <file name="citrus_poster_.png" crc="291611114" ref="marcas-y-logos-def"/>
+    <file name="insomnia.svg" crc="3908698819" seo="true" ref="marcas-y-logos-def"/>
+    <file name="insomnia_poster_.png" crc="247655609" ref="marcas-y-logos-def"/>
+    <file name="genmark.svg" crc="4240654963" seo="true" ref="marcas-y-logos-def"/>
+    <file name="genmark_poster_.png" crc="3973183228" ref="marcas-y-logos-def"/>
+    <file name="coordinacion-idiomas.svg" crc="4226456483" seo="true" ref="marcas-y-logos-def"/>
+    <file name="coordinacion idiomas_poster_.png" crc="12106793" ref="marcas-y-logos-def"/>
+    <file name="treka.svg" crc="4282456776" seo="true" ref="marcas-y-logos-def"/>
+    <file name="treka_poster_.png" crc="4202255092" ref="marcas-y-logos-def"/>
+    <file name="enersun.svg" crc="3817688340" seo="true" ref="marcas-y-logos-def"/>
+    <file name="enersun_poster_.png" crc="137982493" ref="marcas-y-logos-def"/>
+    <file name="rebranding-chata.svg" crc="128407626" seo="true" ref="marcas-y-logos-def"/>
+    <file name="rebranding chata_poster_.png" crc="60136548" ref="marcas-y-logos-def"/>
+    <file name="grupoceres.svg" crc="274789769" seo="true" ref="marcas-y-logos-def"/>
+    <file name="grupoceres_poster_.png" crc="3855055682" ref="marcas-y-logos-def"/>
+    <file name="bolsa chata-crop-u3513.jpg" crc="4008035055" ref="branding"/>
+    <file name="bolsa de cartón-crop-u3645.jpg" crc="361955202" ref="branding"/>
+    <file name="empaque chata-crop-u3671.jpg" crc="380340782" ref="branding"/>
+    <file name="fb page mac-crop-u3697.png" crc="3810870966" ref="branding"/>
+    <file name="gorra-crop-u3723.jpg" crc="412495605" ref="branding"/>
+    <file name="llaverochata.jpg" crc="166244614" seo="true" ref="branding"/>
+    <file name="bolsa chata-crop-u3521.jpg" crc="3817113297" ref="branding"/>
+    <file name="bolsa de cartón244x196.jpg" crc="3855463435" seo="true" ref="branding"/>
+    <file name="empaque chata244x196.jpg" crc="3849168551" seo="true" ref="branding"/>
+    <file name="fb page mac244x185.png" crc="4223556059" seo="true" ref="branding"/>
+    <file name="gorra263x183.jpg" crc="3993424731" seo="true" ref="branding"/>
+    <file name="llaverochata279x183.jpg" crc="3908531843" seo="true" ref="branding"/>
+    <file name="loading.gif" crc="3815509949" ref="branding:fotografía"/>
+    <file name="trazos-onda-verde.svg" crc="498923704" seo="true" ref="branding"/>
+    <file name="trazos onda verde_poster_.png" crc="364396362" ref="branding"/>
+    <file name="six pack.jpg" crc="3951466051" seo="true" ref="branding"/>
+    <file name="camiseta bacata.jpg" crc="356015402" seo="true" ref="branding"/>
+    <file name="cerveza oscura-crop-u4678.jpg" crc="4017885050" ref="branding"/>
+    <file name="mock up papeleria.png" crc="4282766664" seo="true" ref="branding"/>
+    <file name="tarjeta de presentación.jpg" crc="4179534254" seo="true" ref="branding"/>
+    <file name="polo bacata.jpg" crc="332933373" seo="true" ref="branding"/>
+    <file name="six pack243x189.jpg" crc="4252506395" seo="true" ref="branding"/>
+    <file name="camiseta bacata243x194.jpg" crc="435414419" seo="true" ref="branding"/>
+    <file name="cerveza oscura250x187.jpg" crc="415996676" seo="true" ref="branding"/>
+    <file name="mock up papeleria285x187.png" crc="87035894" seo="true" ref="branding"/>
+    <file name="tarjeta de presentación265x187.jpg" crc="3993944037" seo="true" ref="branding"/>
+    <file name="polo bacata281x187.jpg" crc="501083498" seo="true" ref="branding"/>
+    <file name="playera outlander.jpg" crc="3935760236" seo="true" ref="branding"/>
+    <file name="camisa andrew.png" crc="227799253" seo="true" ref="branding"/>
+    <file name="taza.jpg" crc="289344844" seo="true" ref="branding"/>
+    <file name="pines 4.jpg" crc="4227887640" seo="true" ref="branding"/>
+    <file name="pines p1.jpg" crc="3902691174" seo="true" ref="branding"/>
+    <file name="taza de peltre.jpg" crc="3919696404" seo="true" ref="branding"/>
+    <file name="playera outlander273x200.jpg" crc="3916188462" seo="true" ref="branding"/>
+    <file name="camisa andrew267x215.png" crc="368570205" seo="true" ref="branding"/>
+    <file name="taza301x200.jpg" crc="4119106410" seo="true" ref="branding"/>
+    <file name="pines 4286x201.jpg" crc="467180900" seo="true" ref="branding"/>
+    <file name="pines p1286x201.jpg" crc="4208340183" seo="true" ref="branding"/>
+    <file name="taza de peltre267x200.jpg" crc="3902414816" seo="true" ref="branding"/>
+    <file name="bolsa chata-crop-u35132.jpg" crc="4008035055" ref="branding"/>
+    <file name="bolsa de cartón-crop-u36452.jpg" crc="4225241990" ref="branding"/>
+    <file name="empaque chata-crop-u36712.jpg" crc="274043577" ref="branding"/>
+    <file name="fb page mac-crop-u36972.png" crc="4197181493" ref="branding"/>
+    <file name="gorra.jpg" crc="4166787745" seo="true" ref="branding"/>
+    <file name="bolsa chata-crop-u35212.jpg" crc="3817113297" ref="branding"/>
+    <file name="cerveza oscura-crop-u46782.jpg" crc="374570632" ref="branding"/>
+    <file name="bolsa chata-crop-u35133.jpg" crc="4008035055" ref="branding"/>
+    <file name="bolsa de cartón.jpg" crc="130884828" seo="true" ref="branding"/>
+    <file name="empaque chata.jpg" crc="4046195860" seo="true" ref="branding"/>
+    <file name="fb page mac.png" crc="54432011" seo="true" ref="branding"/>
+    <file name="bolsa chata-crop-u35213.jpg" crc="3817113297" ref="branding"/>
+    <file name="cerveza oscura.jpg" crc="3793024437" seo="true" ref="branding"/>
+    <file name="bolsa chata.jpg" crc="4093528005" seo="true" ref="branding"/>
+    <file name="bolsa de cartón567x453.jpg" crc="4136117688" seo="true" ref="branding"/>
+    <file name="empaque chata567x453.jpg" crc="206809342" seo="true" ref="branding"/>
+    <file name="fb page mac598x453.png" crc="384707198" seo="true" ref="branding"/>
+    <file name="gorra-crop-u37232.jpg" crc="4182373143" ref="branding"/>
+    <file name="llaverochata-crop-u3749.jpg" crc="403319734" ref="branding"/>
+    <file name="bolsa chata-crop-u35214.jpg" crc="4046844323" ref="branding"/>
+    <file name="bolsa de cartón208x167.jpg" crc="4003759051" seo="true" ref="branding"/>
+    <file name="empaque chata208x167.jpg" crc="339480757" seo="true" ref="branding"/>
+    <file name="fb page mac208x158.png" crc="452536679" seo="true" ref="branding"/>
+    <file name="gorra221x154.jpg" crc="3760144900" seo="true" ref="branding"/>
+    <file name="llaverochata235x154.jpg" crc="318460183" seo="true" ref="branding"/>
+    <file name="six pack529x411.jpg" crc="169127009" seo="true" ref="branding"/>
+    <file name="cerveza oscura548x412.jpg" crc="320056611" seo="true" ref="branding"/>
+    <file name="mock up papeleria583x383.png" crc="3989422272" seo="true" ref="branding"/>
+    <file name="six pack208x162.jpg" crc="4144828192" seo="true" ref="branding"/>
+    <file name="camiseta bacata208x167.jpg" crc="4243909456" seo="true" ref="branding"/>
+    <file name="cerveza oscura208x156.jpg" crc="75806218" seo="true" ref="branding"/>
+    <file name="mock up papeleria229x150.png" crc="4026950359" seo="true" ref="branding"/>
+    <file name="tarjeta de presentación213x150.jpg" crc="3870057456" seo="true" ref="branding"/>
+    <file name="polo bacata225x150.jpg" crc="3992223584" seo="true" ref="branding"/>
+    <file name="playera outlander-crop-u4996.jpg" crc="4260624346" ref="branding"/>
+    <file name="taza-crop-u5129.jpg" crc="387920780" ref="branding"/>
+    <file name="pines 4-crop-u5171.jpg" crc="110685160" ref="branding"/>
+    <file name="pines p1-crop-u5191.jpg" crc="3808570112" ref="branding"/>
+    <file name="taza de peltre-crop-u5211.jpg" crc="498328968" ref="branding"/>
+    <file name="playera outlander213x156.jpg" crc="96157459" seo="true" ref="branding"/>
+    <file name="camisa andrew194x156.png" crc="4229010607" seo="true" ref="branding"/>
+    <file name="taza-crop-u5135.jpg" crc="4085270975" ref="branding"/>
+    <file name="pines 4223x157.jpg" crc="451406484" seo="true" ref="branding"/>
+    <file name="pines p1223x157.jpg" crc="317420286" seo="true" ref="branding"/>
+    <file name="taza de peltre208x156.jpg" crc="141401223" seo="true" ref="branding"/>
+    <file name="bolsa chata455x478.jpg" crc="59264012" seo="true" ref="branding"/>
+    <file name="bolsa de cartón-crop-u36453.jpg" crc="12558732" ref="branding"/>
+    <file name="empaque chata-crop-u36713.jpg" crc="147716229" ref="branding"/>
+    <file name="fb page mac-crop-u36973.png" crc="4179212561" ref="branding"/>
+    <file name="gorra-crop-u37233.jpg" crc="251182963" ref="branding"/>
+    <file name="llaverochata-crop-u37492.jpg" crc="251623235" ref="branding"/>
+    <file name="bolsa chata-crop-u35215.jpg" crc="4262235710" ref="branding"/>
+    <file name="bolsa de cartón198x159.jpg" crc="453314131" seo="true" ref="branding"/>
+    <file name="empaque chata198x159.jpg" crc="4280032198" seo="true" ref="branding"/>
+    <file name="fb page mac198x150.png" crc="269149772" seo="true" ref="branding"/>
+    <file name="gorra214x149.jpg" crc="296691546" seo="true" ref="branding"/>
+    <file name="llaverochata227x149.jpg" crc="448131963" seo="true" ref="branding"/>
+    <file name="six pack-crop-u4647.jpg" crc="7696191" ref="branding"/>
+    <file name="camiseta bacata-crop-u4587.jpg" crc="4267953696" ref="branding"/>
+    <file name="cerveza oscura-crop-u46783.jpg" crc="4144009759" ref="branding"/>
+    <file name="mock up papeleria-crop-u4607.png" crc="474096305" ref="branding"/>
+    <file name="tarjeta de presentación-crop-u4901.jpg" crc="4180052390" ref="branding"/>
+    <file name="polo bacata-crop-u4627.jpg" crc="505294082" ref="branding"/>
+    <file name="six pack192x149.jpg" crc="4052165043" seo="true" ref="branding"/>
+    <file name="camiseta bacata187x150.jpg" crc="375690021" seo="true" ref="branding"/>
+    <file name="cerveza oscura199x149.jpg" crc="240470936" seo="true" ref="branding"/>
+    <file name="mock up papeleria227x149.png" crc="306566550" seo="true" ref="branding"/>
+    <file name="tarjeta de presentación211x149.jpg" crc="3813528638" seo="true" ref="branding"/>
+    <file name="polo bacata224x149.jpg" crc="391147134" seo="true" ref="branding"/>
+    <file name="playera outlander-crop-u49962.jpg" crc="4186245363" ref="branding"/>
+    <file name="camisa andrew-crop-u5101.png" crc="23976069" ref="branding"/>
+    <file name="taza-crop-u51292.jpg" crc="4288902170" ref="branding"/>
+    <file name="pines 4-crop-u51712.jpg" crc="473368805" ref="branding"/>
+    <file name="pines p1-crop-u51912.jpg" crc="359846688" ref="branding"/>
+    <file name="taza de peltre-crop-u52112.jpg" crc="56862507" ref="branding"/>
+    <file name="playera outlander212x155.jpg" crc="3949986721" seo="true" ref="branding"/>
+    <file name="camisa andrew193x156.png" crc="3896013340" seo="true" ref="branding"/>
+    <file name="taza233x155.jpg" crc="293837337" seo="true" ref="branding"/>
+    <file name="pines 4221x156.jpg" crc="150331262" seo="true" ref="branding"/>
+    <file name="pines p1221x156.jpg" crc="4082407316" seo="true" ref="branding"/>
+    <file name="taza de peltre207x155.jpg" crc="4101817557" seo="true" ref="branding"/>
+    <file name="bolsa chata-crop-u35134.jpg" crc="3883016184" ref="branding"/>
+    <file name="bolsa de cartón-crop-u36454.jpg" crc="221388156" ref="branding"/>
+    <file name="empaque chata-crop-u36714.jpg" crc="4023105269" ref="branding"/>
+    <file name="fb page mac319x242.png" crc="4095556543" seo="true" ref="branding"/>
+    <file name="gorra319x223.jpg" crc="4211949554" seo="true" ref="branding"/>
+    <file name="llaverochata319x210.jpg" crc="4036919901" seo="true" ref="branding"/>
+    <file name="bolsa chata99x105.jpg" crc="528856503" seo="true" ref="branding"/>
+    <file name="bolsa de cartón-crop-u3653.jpg" crc="4210143129" ref="branding"/>
+    <file name="empaque chata-crop-u3679.jpg" crc="74300984" ref="branding"/>
+    <file name="fb page mac-crop-u3705.png" crc="410792451" ref="branding"/>
+    <file name="gorra-crop-u3731.jpg" crc="4253663823" ref="branding"/>
+    <file name="llaverochata-crop-u3757.jpg" crc="289885709" ref="branding"/>
+    <file name="six pack327x254.jpg" crc="217646528" seo="true" ref="branding"/>
+    <file name="camiseta bacata322x258.jpg" crc="4278330817" seo="true" ref="branding"/>
+    <file name="cerveza oscura339x254.jpg" crc="3957087501" seo="true" ref="branding"/>
+    <file name="mock up papeleria360x237.png" crc="191387238" seo="true" ref="branding"/>
+    <file name="tarjeta de presentación360x254.jpg" crc="81638442" seo="true" ref="branding"/>
+    <file name="polo bacata381x254.jpg" crc="3918292592" seo="true" ref="branding"/>
+    <file name="six pack-crop-u4653.jpg" crc="280140814" ref="branding"/>
+    <file name="camiseta bacata-crop-u4593.jpg" crc="484822550" ref="branding"/>
+    <file name="cerveza oscura-crop-u4684.jpg" crc="496041097" ref="branding"/>
+    <file name="mock up papeleria-crop-u4613.png" crc="248769661" ref="branding"/>
+    <file name="tarjeta de presentación-crop-u4907.jpg" crc="3862214609" ref="branding"/>
+    <file name="polo bacata-crop-u4633.jpg" crc="4173464096" ref="branding"/>
+    <file name="playera outlander354x259.jpg" crc="116606489" seo="true" ref="branding"/>
+    <file name="camisa andrew322x259.png" crc="367009135" seo="true" ref="branding"/>
+    <file name="taza389x259.jpg" crc="3819925014" seo="true" ref="branding"/>
+    <file name="pines 4370x259.jpg" crc="26828505" seo="true" ref="branding"/>
+    <file name="pines p1370x259.jpg" crc="3919407082" seo="true" ref="branding"/>
+    <file name="taza de peltre346x259.jpg" crc="199796988" seo="true" ref="branding"/>
+    <file name="playera outlander114x83.jpg" crc="4204425315" seo="true" ref="branding"/>
+    <file name="camisa andrew104x84.png" crc="108205869" seo="true" ref="branding"/>
+    <file name="taza125x83.jpg" crc="4208768980" seo="true" ref="branding"/>
+    <file name="pines 4119x84.jpg" crc="4227549115" seo="true" ref="branding"/>
+    <file name="pines p1119x84.jpg" crc="352261351" seo="true" ref="branding"/>
+    <file name="taza de peltre111x83.jpg" crc="4165317011" seo="true" ref="branding"/>
+    <file name="img_5675.jpg" crc="3818395839" seo="true" ref="fotografía"/>
+    <file name="img_5679.jpg" crc="3762632319" seo="true" ref="fotografía"/>
+    <file name="img_5657.jpg" crc="4153565134" seo="true" ref="fotografía"/>
+    <file name="img_5713.jpg" crc="4045982092" seo="true" ref="fotografía"/>
+    <file name="img_5684.jpg" crc="107113668" seo="true" ref="fotografía"/>
+    <file name="img_5706.jpg" crc="3895739097" seo="true" ref="fotografía"/>
+    <file name="img_5675-crop-u5614.jpg" crc="108457483" ref="fotografía"/>
+    <file name="img_5679382x255.jpg" crc="3801247961" seo="true" ref="fotografía"/>
+    <file name="img_5657382x255.jpg" crc="294424387" seo="true" ref="fotografía"/>
+    <file name="img_5713382x255.jpg" crc="3812018397" seo="true" ref="fotografía"/>
+    <file name="img_5684382x255.jpg" crc="3774202406" seo="true" ref="fotografía"/>
+    <file name="img_5706382x255.jpg" crc="3852284660" seo="true" ref="fotografía"/>
+    <file name="img_6447.jpg" crc="231587068" seo="true" ref="fotografía"/>
+    <file name="img_6379.jpg" crc="3969105520" seo="true" ref="fotografía"/>
+    <file name="img_6405.jpg" crc="4197292591" seo="true" ref="fotografía"/>
+    <file name="img_6415.jpg" crc="449191499" seo="true" ref="fotografía"/>
+    <file name="img_6426.jpg" crc="4215398668" seo="true" ref="fotografía"/>
+    <file name="img_6452.jpg" crc="4265459038" seo="true" ref="fotografía"/>
+    <file name="img_6447380x253.jpg" crc="135200482" seo="true" ref="fotografía"/>
+    <file name="img_6379380x253.jpg" crc="337673942" seo="true" ref="fotografía"/>
+    <file name="img_6405380x253.jpg" crc="4017516399" seo="true" ref="fotografía"/>
+    <file name="img_6415380x253.jpg" crc="3785919595" seo="true" ref="fotografía"/>
+    <file name="img_6426380x253.jpg" crc="29110336" seo="true" ref="fotografía"/>
+    <file name="img_6452380x253.jpg" crc="393158083" seo="true" ref="fotografía"/>
+    <file name="img_5892.jpg" crc="255944650" seo="true" ref="fotografía"/>
+    <file name="img_6033.jpg" crc="321823920" seo="true" ref="fotografía"/>
+    <file name="img_5910.jpg" crc="263053598" seo="true" ref="fotografía"/>
+    <file name="img_5923.jpg" crc="3910094181" seo="true" ref="fotografía"/>
+    <file name="img_5928.jpg" crc="4117867496" seo="true" ref="fotografía"/>
+    <file name="img_5939.jpg" crc="4131438797" seo="true" ref="fotografía"/>
+    <file name="img_5892380x253.jpg" crc="4200632284" seo="true" ref="fotografía"/>
+    <file name="img_6033380x254.jpg" crc="4229431176" seo="true" ref="fotografía"/>
+    <file name="img_5910380x253.jpg" crc="481191040" seo="true" ref="fotografía"/>
+    <file name="img_5923363x254.jpg" crc="3928246559" seo="true" ref="fotografía"/>
+    <file name="img_5928380x253.jpg" crc="325216220" seo="true" ref="fotografía"/>
+    <file name="img_5939380x253.jpg" crc="3802712261" seo="true" ref="fotografía"/>
+    <file name="img_5462.jpg" crc="4039302566" seo="true" ref="fotografía"/>
+    <file name="img_5482 luz.jpg" crc="461986217" seo="true" ref="fotografía"/>
+    <file name="img_5502.jpg" crc="286241906" seo="true" ref="fotografía"/>
+    <file name="img_5515.jpg" crc="3872522707" seo="true" ref="fotografía"/>
+    <file name="img_5571.jpg" crc="134907374" seo="true" ref="fotografía"/>
+    <file name="img_5570.jpg" crc="4239099197" seo="true" ref="fotografía"/>
+    <file name="img_5462380x253.jpg" crc="3876497401" seo="true" ref="fotografía"/>
+    <file name="img_5482 luz380x253.jpg" crc="69556982" seo="true" ref="fotografía"/>
+    <file name="img_5502380x253.jpg" crc="376825706" seo="true" ref="fotografía"/>
+    <file name="img_5515380x253.jpg" crc="4020313413" seo="true" ref="fotografía"/>
+    <file name="img_5571380x253.jpg" crc="449304083" seo="true" ref="fotografía"/>
+    <file name="img_5570380x253.jpg" crc="500965226" seo="true" ref="fotografía"/>
+    <file name="cartel boys.jpg" crc="28978492" ref="cartel"/>
+    <file name="cartel avengers.jpg" crc="3921423082" ref="cartel"/>
+    <file name="cartel posterizacion-u7642-fr.jpg" crc="240580095" ref="cartel"/>
+    <file name="you can read it-u7645-fr.jpg" crc="3999730665" ref="cartel"/>
+    <file name="cartel jornada del conocimiento-u7657-fr.jpg" crc="4225014995" ref="cartel"/>
+    <file name="lettering principito rgb_mesa de trabajo 1 copia_mesa de trabajo 1.jpg" crc="396906704" ref="cartel"/>
+    <file name="lettering silente_mesa de trabajo 1.jpg" crc="155003718" ref="cartel"/>
+    <file name="convocatoria curso de idiomas_mesa de trabajo 1_mesa de trabajo 1.jpg" crc="3919006321" ref="cartel"/>
+    <file name="curso past simple_mesa de trabajo 1_mesa de trabajo 1.jpg" crc="4233362738" ref="cartel"/>
+    <file name="convocatoria curso future_mesa de trabajo 1.jpg" crc="467743598" ref="cartel"/>
+    <file name="convocatoria curso de idiomas_mesa de trabajo 1_mesa de trabajo 1-u7709-fr.jpg" crc="155159957" ref="cartel"/>
+    <file name="curso past simple_mesa de trabajo 1_mesa de trabajo 1-u7712-fr.jpg" crc="249389876" ref="cartel"/>
+    <file name="convocatoria curso future_mesa de trabajo 1-u7715-fr.jpg" crc="294908043" ref="cartel"/>
+    <file name="cartel boys-u7620-fr.jpg" crc="4111663874" ref="cartel"/>
+    <file name="cartel avengers-u7631-fr.jpg" crc="273599448" ref="cartel"/>
+    <file name="you can read it.jpg" crc="3979773755" ref="cartel"/>
+    <file name="lettering principito rgb_mesa de trabajo 1 copia_mesa de trabajo 1-u7687-fr.jpg" crc="330277304" ref="cartel"/>
+    <file name="lettering silente_mesa de trabajo 1-u7690-fr.jpg" crc="4048587543" ref="cartel"/>
+    <file name="cartel jornada del conocimiento.jpg" crc="3984991594" ref="cartel"/>
+    <file name="cartel posterizacion.jpg" crc="4103179702" ref="cartel"/>
+    <file name="cartel boys-u7620-fr2.jpg" crc="144193704" ref="cartel"/>
+    <file name="cartel avengers-u7631-fr2.jpg" crc="516317692" ref="cartel"/>
+    <file name="cartel posterizacion-u7642-fr2.jpg" crc="208636521" ref="cartel"/>
+    <file name="you can read it-u7645-fr2.jpg" crc="3924492820" ref="cartel"/>
+    <file name="cartel jornada del conocimiento-u7657-fr2.jpg" crc="3800221720" ref="cartel"/>
+    <file name="lettering principito rgb_mesa de trabajo 1 copia_mesa de trabajo 1-u7687-fr2.jpg" crc="367143601" ref="cartel"/>
+    <file name="lettering silente_mesa de trabajo 1-u7690-fr2.jpg" crc="4005926605" ref="cartel"/>
+    <file name="convocatoria curso de idiomas_mesa de trabajo 1_mesa de trabajo 1-u7709-fr2.jpg" crc="300882751" ref="cartel"/>
+    <file name="convocatoria curso future_mesa de trabajo 1-u7715-fr2.jpg" crc="473465812" ref="cartel"/>
+    <file name="curso past simple_mesa de trabajo 1_mesa de trabajo 1-u7712-fr2.jpg" crc="57793045" ref="cartel"/>
+    <file name="cartel boys-u7620-fr3.jpg" crc="310810215" ref="cartel"/>
+    <file name="cartel avengers-u7631-fr3.jpg" crc="4119668601" ref="cartel"/>
+    <file name="cartel posterizacion-u7642-fr3.jpg" crc="4276409661" ref="cartel"/>
+    <file name="you can read it-u7645-fr3.jpg" crc="3959524392" ref="cartel"/>
+    <file name="cartel jornada del conocimiento-u7657-fr3.jpg" crc="383282524" ref="cartel"/>
+    <file name="lettering principito rgb_mesa de trabajo 1 copia_mesa de trabajo 1-u7687-fr3.jpg" crc="91059322" ref="cartel"/>
+    <file name="lettering silente_mesa de trabajo 1-u7690-fr3.jpg" crc="479767503" ref="cartel"/>
+    <file name="convocatoria curso de idiomas_mesa de trabajo 1_mesa de trabajo 1-u7709-fr3.jpg" crc="209910979" ref="cartel"/>
+    <file name="curso past simple_mesa de trabajo 1_mesa de trabajo 1-u7712-fr3.jpg" crc="335881188" ref="cartel"/>
+    <file name="convocatoria curso future_mesa de trabajo 1-u7715-fr3.jpg" crc="4178424002" ref="cartel"/>
+    <file name="instagram post 2.jpg" crc="463056010" ref="redes-sociales"/>
+    <file name="moco social media1.jpg" crc="3986659639" ref="redes-sociales"/>
+    <file name="moco social media2.jpg" crc="3847642132" ref="redes-sociales"/>
+    <file name="instagram post mockup.jpg" crc="3833570449" ref="redes-sociales"/>
+    <file name="moco social media3.jpg" crc="356690080" ref="redes-sociales"/>
+    <file name="fb page mac-u7871-fr.png" crc="144065397" ref="redes-sociales"/>
+    <file name="moco pagina feisbu2.jpg" crc="3937069991" ref="redes-sociales"/>
+    <file name="mastermindmoco.jpg" crc="476876524" ref="redes-sociales"/>
+  </folder>
+  <file name="index.html" crc="3760958245" seo="true" mt="1626211967478" redirect="true"/>
+  <file name="marcas-y-logos-def.html" crc="4173078529" seo="true" mt="1626208252562" redirect="true"/>
+  <file name="branding.html" crc="309769526" seo="true" mt="1626211290609" redirect="true"/>
+  <file name="fotografía.html" crc="166173620" seo="true" mt="1626152226197" redirect="true"/>
+  <file name="cartel.html" crc="17650166" seo="true" mt="1626213985386" redirect="true"/>
+  <file name="redes-sociales.html" crc="16679660" seo="true" mt="1626152226198" redirect="true"/>
+</manifest>
